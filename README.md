@@ -1,7 +1,7 @@
 # How MediaQuery improves user experience:
 
 ## MediaQuery
-is a crucial widget for providing a better user experience by allowing your app to adapt to different screen sizes, orientations, and device capabilities. Here's how:
+Is a crucial widget for providing a better user experience by allowing your app to adapt to different screen sizes, orientations, and device capabilities. Here's how:
 Responsive Design: MediaQuery helps you build responsive layouts that adjust to different screen sizes and resolutions. You can query the screen's width, height, and pixel density to create layouts that work well on phones, tablets, and even desktops.
 
 ## Orientation Changes:
